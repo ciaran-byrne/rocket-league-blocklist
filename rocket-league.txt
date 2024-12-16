@@ -30,7 +30,7 @@ eulatracking-public-service-prod06.ol.epicgames.com
 friends-public-service-prod06.ol.epicgames.com
 fulfillment-public-service-prod06.ol.epicgames.com
 launcher-public-service-prod06.ol.epicgames.com
-launcher-website-prod07.ol.epicgames.com/
+launcher-website-prod07.ol.epicgames.com
 launcherwaitingroom-public-service-prod06.ol.epicgames.com
 library-service.live.use1a.on.epicgames.com
 lightswitch-public-service-prod06.ol.epicgames.com
